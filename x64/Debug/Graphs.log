@@ -1,0 +1,4 @@
+﻿  Graphs.cpp
+E:\Programming\C++\AiSD\Graphs\Graphs\Graphs.cpp(58,23): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\C++\AiSD\Graphs\Graphs\Graphs.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+  Graphs.vcxproj -> E:\Programming\C++\AiSD\Graphs\x64\Debug\Graphs.exe
